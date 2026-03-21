@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="EscadasSerpentes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/EscadasSerpentes_jar</output-path>
+    <root id="archive" name="EscadasSerpentes.jar">
+      <element id="module-output" name="EscadasSerpentes" />
+    </root>
+  </artifact>
+</component>
