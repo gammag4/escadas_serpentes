@@ -8,6 +8,15 @@ Jogo de escadas e serpentes implementado em Java usando Swing e AWT.
 
 O objetivo é passar pelo tabuleiro e chegar primeiro ao topo para vencer seu oponente.
 
+## Rodando
+
+Compile e rode o código:
+
+```bash
+javac -d out -sourcepath src src/src/escadasSerpentes/Program.java
+java -cp out src.escadasSerpentes.Program
+```
+
 ## Features
 
 O jogo consiste em um tabuleiro com especiais que podem ajudar ou atrapalhar um jogador,
